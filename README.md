@@ -11,8 +11,7 @@
 
 • توكن البوت
 
-[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/TikTok)
-
+[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fqwsfhjhh/TikTok)
 #### المميزات:
 
 • تحميل الفيديوهات بدون علامه مائية
