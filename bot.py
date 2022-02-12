@@ -10,8 +10,8 @@ downloads = './downloads/{}/'
 
 START_BUTTONS=[
     [
-        InlineKeyboardButton('السورس', url='https://github.com/JMTHON-AR/TikTok'),
-        InlineKeyboardButton('قناة البوتات', url='https://t.me/jmthon'),
+ InlineKeyboardButton('مطور البوت ', url='@P_H_G'),
+        InlineKeyboardButton('قناة البوتات', url='https://t.me/Lovemymosic'),
     ],]
 
 DL_BUTTONS=[
